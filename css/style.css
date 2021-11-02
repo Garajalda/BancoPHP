@@ -1,0 +1,64 @@
+nav {
+    background-color: #e90000;
+    position: fixed!important;
+    z-index: 3;
+}
+
+
+a:active{
+    color: white;
+}
+a:hover{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+
+/*.navbar-light .navbar-toggler-icon{
+    background-image: url(http://assets.stickpng.com/images/588a64e0d06f6719692a2d10.png)!important;
+}*/
+.navbar-toggler,
+.navbar-toggler:focus,
+.navbar-toggler:active{
+    
+    outline: none!important;
+    box-shadow: none;
+    border: 0;
+}
+
+.aviso-legal{
+    background-color: #e7e7e7;
+    padding: 20px;
+    text-align: justify;
+}
+.aviso-ventajas{
+    background-color: #e90000;
+    padding: 20px;
+    text-align: justify;
+    font-size: 15px;
+    color: #e7e7e7;
+}
+
+.titulo{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.separar-ventajas{
+    margin-top: 4%;
+}
+
+ul >li{
+    font-size: 25px;
+    margin-left: 15px;
+}
+
+.unete{
+    background-color: #e7e7e7;
+}
+
+.btn{
+    background-color: #e90000!important;
+}
+
